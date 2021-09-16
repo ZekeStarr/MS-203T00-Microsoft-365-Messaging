@@ -62,7 +62,7 @@ checks for sensitive information in emails sent from inside the organization.
 8.  In the **Office 365 Home** page, select the **Admin** icon in the column of
     Microsoft 365 app icons on the left-side of the screen.
 
-9.  In the **Microsoft 365 admin center**, in the left-hand navigation bar,
+9.  In the **Microsoft 365 admin center**, itestn the left-hand navigation bar,
     select **Show All** to display all the navigation menu options.
 
 10. On the left-hand navigation bar, in the **Admin centers** section, select
